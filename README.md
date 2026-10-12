@@ -20,7 +20,6 @@ Nexus aims to build a minimal bootloader from the ground up, starting with basic
 
 * **Assembly:** x86 (16-bit)
 * **Assembler:** NASM
-* **Emulator:** QEMU
 * **Platform:** Legacy BIOS
 
 ## Project Status
