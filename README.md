@@ -40,5 +40,3 @@ Currently in early development.
 Nexus is an educational project intended for learning low-level programming and operating system fundamentals. It is not intended to replace an existing bootloader or operating system.
 
 ---
-
-*Built from the ground up, one instruction at a time.*
